@@ -1,0 +1,15 @@
+//
+//  SelfSizingCell.pch
+//  CellHeightDemo
+//
+//  Created by null on 14-12-27.
+//  Copyright (c) 2014年 nonstriater. All rights reserved.
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+
+

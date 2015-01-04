@@ -10,6 +10,7 @@
 
 @interface LLTableViewCell : UITableViewCell
 
+@property (weak, nonatomic) IBOutlet UIImageView *avatarImageView;
 @property(nonatomic,weak) IBOutlet UILabel *detailLabel;
 
 @end

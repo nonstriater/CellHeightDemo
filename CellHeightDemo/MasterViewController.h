@@ -10,6 +10,7 @@
 
 @interface MasterViewController : UITableViewController
 
+- (UITableViewCell *)tableViewCellForDataItem:(NSString *)item;
 
 @end
 
